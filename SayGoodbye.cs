@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace SayGoodbye
 {
      public class Program
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Goodbye World!");
             
         }
     }
